@@ -1,25 +1,37 @@
-# Hi there, I'm Swaraj Thakre 👋
+<h1 align="center">Hi there, I'm Swaraj Thakre 👋</h1>
 
-## Web Developer | Freelancer
+<p align="center">
+  <strong>Web Developer | Freelancer | Lifelong Learner</strong><br>
+  Building modern, responsive, and high-performance websites.
+</p>
 
-I'm a passionate web developer with experience in creating dynamic and responsive websites. I love working on front-end and back-end technologies and am constantly learning new things to stay updated with the latest trends in web development.
+---
 
-### 🔧 Technologies & Tools
+## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, React, Nextjs
-- **Backend**: Node.js, Express.js
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Version Control**: Git, GitHub, GitLab
-- **Other Tools**: VS Code, Postman,
+- 💻 **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js  
+- 🛠️ **Backend**: Node.js, Express.js  
+- 🗃️ **Databases**: MongoDB, MySQL, PostgreSQL  
+- 🧰 **Tools & Platforms**: Git, GitHub, GitLab, Postman, VS Code  
 
-### 🌱 I’m currently learning
-- Next.js
-- Advanced JavaScript concepts
-- Web performance optimization
+---
 
-### 📬 How to reach me
-- Email: swarajthakre.stud@gmail.com
-- LinkedIn: [Swaraj Thakre](https://www.linkedin.com/in/swaraj-thakre2629)
-- Twitter: [@SwarajThakre](https://x.com/thakre_swaraj)
+## 🌱 Currently Exploring
 
-Feel free to reach out to me if you have any questions or want to collaborate!
+- 🔍 Advanced JavaScript Patterns  
+- ⚙️ Next.js Ecosystem  
+- 🚀 Web Performance Optimization & Best Practices  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [swarajthakre.stud@gmail.com](mailto:swarajthakre.stud@gmail.com)  
+- 💼 LinkedIn: [Swaraj Thakre](https://www.linkedin.com/in/swaraj-thakre2629)  
+- 🐦 Twitter: [@thakre_swaraj](https://x.com/thakre_swaraj)  
+
+---
+
+## 🚀 Let's Collaborate!
+I’m always open to new opportunities, freelance gigs, or exciting web projects.  
+Feel free to connect and let's build something great together!
