@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js  
+- 💻 **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js, Redux, Next.js  
 - 🛠️ **Backend**: Node.js, Express.js  
 - 🗃️ **Databases**: MongoDB, MySQL, PostgreSQL  
 - 🧰 **Tools & Platforms**: Git, GitHub, GitLab, Postman, VS Code  
