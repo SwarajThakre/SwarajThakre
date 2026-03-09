@@ -45,17 +45,6 @@
 
 ---
 
-## 📂 Featured Project
-
-### 🌍 GlobexRates
-
-Live currency exchange rate and real-time currency converter web app.
-
-🔗 Live Demo: https://globexrates.netlify.app
-📦 Repository: https://github.com/SwarajThakre/globexrates
-
----
-
 ## 🌱 Currently Learning
 
 * Advanced **JavaScript Concepts**
