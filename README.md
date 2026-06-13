@@ -18,9 +18,9 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge" /></a>
+  <a href="https://swarajthakre26.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/swarajst"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge" /></a>
+  <a href="mailto:swarajthakre.stud@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge" /></a>
   <a href="https://github.com/SwarajThakre"><img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge" /></a>
 </p>
 
@@ -66,7 +66,7 @@ I enjoy transforming complex business requirements into elegant digital products
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 ### Frontend
@@ -88,17 +88,6 @@ I enjoy transforming complex business requirements into elegant digital products
 </p>
 
 ---
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| AI-Powered Applications | Intermediate | Integrating AI APIs into web products |
-| Prompt Engineering | Intermediate | Workflow automation and productivity enhancement |
-| Data Visualization | Advanced | Interactive dashboards and analytical interfaces |
-| Product Intelligence | Intermediate | Building user-centric AI experiences |
-| Modern AI Tooling | Intermediate | LLM integration and AI-assisted development |
-
 ---
 
 # Featured Projects
@@ -196,25 +185,6 @@ Worked on enterprise-grade dashboards, monitoring systems, and frontend optimiza
 </div>
 
 ---
-
-# Certifications
-
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Professional-F80000?style=for-the-badge)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge)
-
 ---
 
 # Coding Profiles
@@ -297,11 +267,11 @@ Open_To:
 
 <p align="center">
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:swarajthakre.stud@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/swarajst">
 <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge"/>
 </a>
 
@@ -309,7 +279,7 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="https://swarajthakre26.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
