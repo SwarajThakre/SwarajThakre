@@ -57,7 +57,7 @@
 ## 📫 Connect With Me
 
 📧 Email: [swarajthakre.stud@gmail.com](mailto:swarajthakre.stud@gmail.com)
-💼 LinkedIn: https://www.linkedin.com/in/swaraj-thakre2629
+💼 LinkedIn: www.linkedin.com/in/swarajst
 🐦 Twitter: https://x.com/thakre_swaraj
 🌐 Portfolio: https://swarajthakre26.netlify.app
 
