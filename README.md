@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
+  <a href="https://maps.app.goo.gl/q6vNHsQrQ5RKfhJS6">
   <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-4F46E5?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
