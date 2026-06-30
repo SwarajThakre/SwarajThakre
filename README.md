@@ -214,14 +214,6 @@ Worked on enterprise-grade dashboards, monitoring systems, and frontend optimiza
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SwarajThakre&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
 # Contribution Activity
 
 <p align="center">
