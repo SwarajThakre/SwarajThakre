@@ -233,7 +233,7 @@ Worked on enterprise-grade dashboards, monitoring systems, and frontend optimiza
 # Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SwarajThakre/SwarajThakre/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/SwarajThakre/SwarajThakre/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
 
 ---
