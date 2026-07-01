@@ -188,18 +188,6 @@ Worked on enterprise-grade dashboards, monitoring systems, and frontend optimiza
 </div>
 
 ---
----
-
-# Coding Profiles
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/></a>
-</p>
-
----
 
 # GitHub Analytics
 
