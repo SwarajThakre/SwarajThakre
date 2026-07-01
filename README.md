@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/B.Sc-Information%20Technology-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Frontend-React%20Developer-6366F1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20To-FrontEnd%20Developer-A855F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Web%20Developer-A855F7?style=for-the-badge" />
 </p>
 
 <p align="center">
