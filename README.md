@@ -331,15 +331,15 @@ Continuously learning and expanding my skills through industry-recognized certif
 <a href="mailto:swarajthakre.stud@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/swarajst">
 <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/SwarajThakre">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
-
+&nbsp;
 <a href="https://swarajthakre26.netlify.app/">
 <img src="https://img.shields.io/badge/⚡_Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
