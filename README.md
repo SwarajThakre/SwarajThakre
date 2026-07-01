@@ -277,4 +277,3 @@ Open_To:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 </p>
-```
