@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/👁️%20Profile%20Views-10K+-8B5CF6?style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=SwarajThakre&label=👁️Profile%20Views&style=for-the-badge&color=8B5CF6" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/SwarajThakre?style=for-the-badge&logo=github&logoColor=white&color=3B82F6&label=Followers" />
   &nbsp;
