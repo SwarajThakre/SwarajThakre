@@ -241,23 +241,22 @@ Continuously learning and expanding my skills through industry-recognized certif
 <a href="https://oneroadmap.io/skills/frontend/certificate/CERT-128B127C" target="_blank">
 <img src="https://img.shields.io/badge/Frontend%20Development-Certificate-2563EB?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://verify.skilljar.com/c/9eerpa46v3uj" target="_blank">
 <img src="https://img.shields.io/badge/Anthropic-AI%20Fundamentals-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://ude.my/UC-066c12e0-cd8a-45c9-b3bc-13bb07c4e163" target="_blank">
 <img src="https://img.shields.io/badge/Udemy-Complete%20Web%20Development-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
 </a>
-
+<br><br>
 <a href="https://verify.letsupgrade.in/certificate/LUESQLMAR12312" target="_blank">
 <img src="https://img.shields.io/badge/SQL-Essential%20Bootcamp-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://skillsoft.digitalbadges.skillsoft.com/b2cc4f4c-068f-4552-b403-be687c608e96#gs.xoqxsd" target="_blank">
 <img src="https://img.shields.io/badge/MySQL-Database%20Development-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
-
 </p>
 
 ---
