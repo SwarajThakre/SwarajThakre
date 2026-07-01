@@ -324,26 +324,35 @@ Continuously learning and expanding my skills through industry-recognized certif
 
 ---
 
-# Connect
+<!-- ========================================================= -->
+<!--                     CONNECT WITH ME                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
+I'm always open to discussing <b>Frontend Development</b>, <b>React</b>,
+<b>Open Source</b>, and exciting opportunities.
+</p>
 
+<br>
+
+<p align="center">
 <a href="mailto:swarajthakre.stud@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/swarajst">
-<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/SwarajThakre">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://swarajthakre26.netlify.app/">
-<img src="https://img.shields.io/badge/⚡_Portfolio-Visit-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
 </p>
 
 ---
