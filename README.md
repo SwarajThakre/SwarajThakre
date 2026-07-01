@@ -290,31 +290,37 @@ Continuously learning and expanding my skills through industry-recognized certif
 
 ---
 
-# Current Focus
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                          -->
+<!-- ========================================================= -->
+
+<h2 align="center">🎯 Current Focus</h2>
 
 ```yaml
-Learning:
+🚀 Learning:
   - Advanced React Patterns
-  - TypeScript Ecosystem
+  - TypeScript
   - System Design
-  - Cloud Engineering
+  - AI-Powered Web Applications
 
-Building:
+💻 Building:
   - Real-Time Web Applications
   - Scalable Frontend Architectures
-  - Developer Tools
+  - Full Stack Projects
+  - Developer Portfolio
 
-Exploring:
-  - AI Integration
-  - Product Engineering
-  - Open Source
+🌱 Exploring:
+  - Authentication & Authorization
+  - Performance Optimization
+  - Docker
+  - Firebase
 
-Open_To:
-  - Software Engineering Roles
-  - Frontend Opportunities
-  - Remote Collaboration
-  - Open Source Contributions
-````
+🤝 Open To:
+  - Frontend Developer Roles
+  - React Developer Positions
+  - Software Engineering Internships
+  - Open Source Collaboration
+```
 
 ---
 
