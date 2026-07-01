@@ -28,9 +28,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwarajThakre&style=for-the-badge&color=7C3AED" />
-  <img src="https://img.shields.io/github/followers/SwarajThakre?style=for-the-badge&color=6366F1" />
-  <img src="https://img.shields.io/github/stars/SwarajThakre?style=for-the-badge&color=A855F7" />
+  <img src="https://img.shields.io/badge/👁️%20Profile%20Views-10K+-8B5CF6?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/SwarajThakre?style=for-the-badge&logo=github&logoColor=white&color=3B82F6&label=Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/SwarajThakre?style=for-the-badge&logo=github&logoColor=white&color=F59E0B&label=Stars" />
 </p>
 
 ---
