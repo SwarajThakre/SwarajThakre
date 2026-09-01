@@ -351,7 +351,7 @@ I'm always open to discussing <b>Frontend Development</b>, <b>React</b>,
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://swarajthakre26.netlify.app/">
+<a href="https://swarajthakre26.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </p>
